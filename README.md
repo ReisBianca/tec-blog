@@ -9,10 +9,10 @@ O Projeto Projeto TecBlog faz parte do Curso Desenvolvimento Web Completo Minist
 - *CSS3*: Linguagem de estilo utilizada para estilizar os componentes do site.
 
 ## Topo: 
-<img src="imagens/home-tecblog.png">
+<img src="imagens/home-tec-blog.png">
 
 ## Rodapé: 
-<img src="imagens/home-tecblog2.png">
+<img src="imagens/home-tec-blog2.png">
 
 ## Autora
 - *Bianca Reis Santana* - Desenvolvimento inicial - [ReisBianca]( https://github.com/ReisBianca)
