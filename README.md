@@ -12,7 +12,7 @@ O Projeto Projeto TecBlog faz parte do Curso Desenvolvimento Web Completo Minist
 <img src="imagens/home-tec-blog.png">
 
 ## Rodapé: 
-<img src="imagens/home-tec-blog2.png">
+<img src="imagens/home-tec-blogII.png">
 
 ## Autora
 - *Bianca Reis Santana* - Desenvolvimento inicial - [ReisBianca]( https://github.com/ReisBianca)
