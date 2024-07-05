@@ -2,7 +2,7 @@
 Projeto TecBlog - Estudo de HTML5 e CSS3.
 
 ## Descrição
-O Projeto Projeto TecBlog faz parte do Curso Desenvolvimento Web Completo Ministrado pelo Prof° Jorge Sant'Ana e Prof° Jamilton Damasceno na plataforma Udemy.
+O Projeto TecBlog faz parte do Curso Desenvolvimento Web Completo ministrado pelo Prof° Jorge Sant'Ana e Prof° Jamilton Damasceno na plataforma Udemy.
 
 ## Tecnologias Utilizadas
 - *HTML5*: Linguagem de marcação utilizada para o desenvolvimento da página;
